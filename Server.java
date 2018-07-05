@@ -1,7 +1,7 @@
 package com.example.sidra.myapplication;
 
 import android.util.Log;
-//this is good
+//this is good madinaa
 public class Server extends Pc {
 
 String anyproperty;

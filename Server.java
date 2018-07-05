@@ -5,6 +5,7 @@ import android.util.Log;
 public class Server extends Pc {
 
 String anyproperty;
+   String newVariable;
 
    public Server()
    {
